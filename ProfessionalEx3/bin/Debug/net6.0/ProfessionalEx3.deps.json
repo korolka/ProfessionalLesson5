@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProfessionalEx3/1.0.0": {
+        "dependencies": {
+          "ProfessionalEx6": "1.0.0"
+        },
+        "runtime": {
+          "ProfessionalEx3.dll": {}
+        }
+      },
+      "ProfessionalEx6/1.0.0": {
+        "runtime": {
+          "ProfessionalEx6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProfessionalEx3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProfessionalEx6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

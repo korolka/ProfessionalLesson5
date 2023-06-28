@@ -1,0 +1,15 @@
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\bin\Debug\net6.0\AdminProject.exe
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\bin\Debug\net6.0\AdminProject.deps.json
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\bin\Debug\net6.0\AdminProject.runtimeconfig.json
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\bin\Debug\net6.0\AdminProject.dll
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\bin\Debug\net6.0\AdminProject.pdb
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\AdminProject.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\AdminProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\AdminProject.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\AdminProject.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\AdminProject.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\AdminProject.dll
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\refint\AdminProject.dll
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\AdminProject.pdb
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\AdminProject.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\ProfessionalLesson5\AdminProject\obj\Debug\net6.0\ref\AdminProject.dll
